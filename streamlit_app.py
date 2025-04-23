@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("vitzy_ind")
+st.title("Indra")
 st.write("halo")
 st.sidebar.title("Settings")
 st.sidebar.markdown("new add")
