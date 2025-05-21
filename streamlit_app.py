@@ -1,5 +1,3 @@
-oh import streamlit as st
-
 st.title("Indra")
 st.write("menjalani hari hari biasa dengan bersekolah")
 st.sidebar.title("Settings")
