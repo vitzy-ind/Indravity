@@ -1,4 +1,3 @@
-st.title("Indra")
 st.write("menjalani hari hari biasa dengan bersekolah")
 st.sidebar.title("Settings")
 st.sidebar.markdown("new add")
